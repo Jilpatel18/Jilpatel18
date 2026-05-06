@@ -71,8 +71,8 @@
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jilpatel18&layout=compact&theme=github_dark&hide_border=true&title_color=00FF41&text_color=ffffff&bg_color=0D1117&langs_count=8" />
-</div>
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jilpatel18&layout=compact&theme=github_dark&hide_border=true&title_color=00FF41&text_color=ffffff&bg_color=0D1117&langs_count=8" />
+</div> -->
 
 
 

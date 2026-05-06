@@ -1,4 +1,4 @@
-name: GitHub-Profile-3D-Contrib
+name: Generate Snake Animation
 on:
   schedule:
     - cron: "0 18 * * *"
@@ -7,20 +7,21 @@ on:
     branches: [main]
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
-    name: generate-github-profile-3d-contrib
-    env:
-      ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION: true
     steps:
       - uses: actions/checkout@v4
 
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
-
-      - uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "docs: update 3d contribution graph"
-          branch: main

@@ -56,17 +56,17 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Jilpatel18&show_icons=true&theme=github_dark&hide_border=true&border_color=00FF41&title_color=00FF41&icon_color=00FF41&text_color=ffffff&bg_color=0D1117" alt="GitHub Stats"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=Jilpatel18&show_icons=true&theme=github_dark&hide_border=true&title_color=00FF41&icon_color=00FF41&text_color=ffffff&bg_color=0D1117" />
     </td>
     <td>
-      <img src="https://streak-stats.demolab.com?user=Jilpatel18&theme=dark&hide_border=true&ring=00FF41&fire=FF6B35&currStreakLabel=00FF41&sideLabels=ffffff&background=0D1117&dates=888888" alt="GitHub Streak"/>
+      <img src="https://streak-stats.demolab.com?user=Jilpatel18&theme=dark&hide_border=true&ring=00FF41&fire=FF6B35&currStreakLabel=00FF41&background=0D1117" />
     </td>
   </tr>
 </table>
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jilpatel18&layout=compact&theme=github_dark&hide_border=true&title_color=00FF41&text_color=ffffff&bg_color=0D1117&langs_count=8" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jilpatel18&layout=compact&theme=github_dark&hide_border=true&title_color=00FF41&text_color=ffffff&bg_color=0D1117&langs_count=8" />
 </div>
 
 

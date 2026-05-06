@@ -106,9 +106,9 @@
 
 <h2 align="center">🌐 Connect with Me</h2>
 <p align="center">
-  <a href="https://linkedin.com/in/Jilpatel18"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF41" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/Jilpatel18"><img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=00FF41" alt="Twitter" /></a>
-  <a href="https://leetcode.com/Jilpatel18"><img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=00FF41" alt="LeetCode" /></a>
+  <a href="https://www.linkedin.com/in/jilvaghasiya18/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF41" alt="LinkedIn" /></a>
+  <a href="https://x.com/sudo_apt_jil_18"><img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=00FF41" alt="Twitter" /></a>
+  <a href="https://leetcode.com/u/MrRobot_23/"><img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=00FF41" alt="LeetCode" /></a>
 </p>
 <br/>
 <p align="center">

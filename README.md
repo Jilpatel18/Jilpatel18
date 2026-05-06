@@ -1,12 +1,13 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,0D1117,50,00FF41,100,0D1117&height=200&section=header&text=Jilpatel18&fontSize=50&fontColor=00FF41&animation=twinkling&desc=Cybersecurity%20Student&descAlignY=70&descAlign=62" width="100%"/>
-</p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&customColorList=0,2,2,5,30&text=Jilpatel18&fontSize=70&fontColor=00FF41&fontAlignY=55&desc=Cybersecurity%20Student%20%7C%20CTF%20Player%20%7C%20Ethical%20Hacker&descSize=16&descAlignY=75&descColor=ffffff&animation=twinkling&stroke=00FF41&strokeWidth=1" width="100%"/>
+
+</div>
 
 <div align="center">
-  <h1 align="center">JIL PATEL</h1>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=Cybersecurity+Student+%F0%9F%9B%A1%EF%B8%8F;CTF+Player+%E2%9A%94%EF%B8%8F;Ethical+Hacker+in+Training+%F0%9F%94%90;Open+Source+Contributor+%F0%9F%92%BB;Breaking+things+to+fix+them+%F0%9F%94%93" alt="Typing SVG" />
-  </a>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=false&width=600&lines=Cybersecurity+Student+%F0%9F%9B%A1%EF%B8%8F;CTF+Player+%E2%9A%94%EF%B8%8F;Ethical+Hacker+in+Training+%F0%9F%94%90;Breaking+things+to+fix+them+%F0%9F%94%93;300%2B+LeetCode+Problems+Solved+%F0%9F%94%A5)](https://git.io/typing-svg)
+
 </div>
 
 <p align="right">
@@ -44,36 +45,31 @@
 <br/>
 
 <h2 align="center">📈 GitHub Contributions</h2>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Jilpatel18/Jilpatel18/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" />
-</p>
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph"/>
+</div>
 
 <br/>
 
 <h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Jilpatel18&theme=github_dark&hide_border=false&border_color=00FF41&title_color=00FF41&icon_color=00FF41" alt="GitHub Stats" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jilpatel18&theme=dark&ring=00FF41&fire=00FF41&currStreakNum=00FF41" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jilpatel18&layout=compact&theme=github_dark&border_color=00FF41&title_color=00FF41" alt="Top Languages" />
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Jilpatel18&show_icons=true&theme=github_dark&hide_border=true&border_color=00FF41&title_color=00FF41&icon_color=00FF41&text_color=ffffff&bg_color=0D1117" alt="GitHub Stats"/>
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=Jilpatel18&theme=dark&hide_border=true&ring=00FF41&fire=FF6B35&currStreakLabel=00FF41&sideLabels=ffffff&background=0D1117&dates=888888" alt="GitHub Streak"/>
+    </td>
+  </tr>
+</table>
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jilpatel18&layout=compact&theme=github_dark&hide_border=true&title_color=00FF41&text_color=ffffff&bg_color=0D1117&langs_count=8" alt="Top Languages"/>
 </div>
 
-<br/>
 
-<h2 align="center">🏆 Trophy Shelf</h2>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jilpatel18&theme=matrix&column=6&no-frame=true&margin-w=15" alt="Trophy Shelf" />
-</p>
-
-<br/>
 
 <h2 align="center">💻 Current Projects</h2>
 <div align="center">

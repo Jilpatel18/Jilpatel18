@@ -53,16 +53,21 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
+<div align="center">
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Jilpatel18&show_icons=true&theme=github_dark&hide_border=true&title_color=00FF41&icon_color=00FF41&text_color=ffffff&bg_color=0D1117" />
+      <img src="https://github-stats-alpha.vercel.app/api?username=Jilpatel18&cc=0D1117&tc=00FF41&ic=ffffff&bc=0D1117" />
     </td>
     <td>
       <img src="https://streak-stats.demolab.com?user=Jilpatel18&theme=dark&hide_border=true&ring=00FF41&fire=FF6B35&currStreakLabel=00FF41&background=0D1117" />
     </td>
   </tr>
 </table>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jilpatel18&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jilpatel18&theme=github_dark" />
+
 </div>
 <br/>
 <div align="center">

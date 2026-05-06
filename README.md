@@ -46,7 +46,7 @@
 
 <h2 align="center">📈 GitHub Contributions</h2>
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph"/>
+  <img src="https://raw.githubusercontent.com/Jilpatel18/Jilpatel18/output/github-snake-dark.svg" alt="contribution snake"/>
 </div>
 
 <br/>

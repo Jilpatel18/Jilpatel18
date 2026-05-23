@@ -31,7 +31,7 @@
 <h2 align="center">🛠️ Technical Arsenal</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,js,bash,mysql,django,react,flask,linux,git,github,docker,vscode&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=py,c,js,bash,mysql,django,react,java,flask,linux,git,github,docker,vscode&theme=dark" />
   </a>
 </p>
 <p align="center">
